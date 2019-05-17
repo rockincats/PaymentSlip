@@ -4,9 +4,9 @@ import java.util.Date;
 import java.util.List;
 import java.util.Scanner;
 
-import ebaotech.com.paymentSlip.businnes.PaymentSlipAdjustment;
-import ebaotech.com.paymentSlip.businnes.PaymentSlipActive;
-import ebaotech.com.paymentSlip.businnes.PaymentSlipCanceled;
+import ebaotech.com.paymentSlip.business.PaymentSlipActive;
+import ebaotech.com.paymentSlip.business.PaymentSlipAdjustment;
+import ebaotech.com.paymentSlip.business.PaymentSlipCanceled;
 import ebaotech.com.paymentSlip.entity.AdjustmentEntity;
 import ebaotech.com.paymentSlip.entity.PaymentSlipEntity;
 import ebaotech.com.paymentSlip.validations.InputValidation;

@@ -1,4 +1,4 @@
-package ebaotech.com.paymentSlip.businnes;
+package ebaotech.com.paymentSlip.business;
 
 import java.util.List;
 
